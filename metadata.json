@@ -1,0 +1,6 @@
+{
+  "name": "Ankerprotokoll Spezialtiefbau",
+  "description": "Baustellenverwaltung und digitales Bohrprotokoll für selbstbohrende Anker mit automatischer Baugrund-Summierung und PDF-Export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
